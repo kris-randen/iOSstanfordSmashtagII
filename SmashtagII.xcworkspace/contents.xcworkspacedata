@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../../../../../Downloads/Twitter/Twitter.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:SmashtagII/SmashtagII.xcodeproj">
    </FileRef>
 </Workspace>
